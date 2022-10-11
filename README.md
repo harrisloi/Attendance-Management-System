@@ -1,4 +1,4 @@
-# Attendance-Management-System
+# Attendance Management System
 
 Design an online attendance system for students and faculty for XYZ University by using Java language. 
 
