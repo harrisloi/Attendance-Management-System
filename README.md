@@ -1,6 +1,6 @@
 # Attendance Management System
 
-Design an online attendance system for students and faculty for XYZ University by using Java language. 
+Design an online attendance system for students and faculty for XYZ University by using the concept of Object-oriented programming - Java. 
 
 There are three users for the system 
 1. Admin
