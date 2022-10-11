@@ -1,0 +1,15 @@
+Clay
+Jensen
+ID0001
+Male
+01-July-1990
+Malaysian
+Chirstian
+Chinese
+clayjensen@mail.staff.com
+012-3456788
+OneSouth,123,KualaLumpur,Malaysia
+IOOP
+UC1F1605
+UC1F1705
+123

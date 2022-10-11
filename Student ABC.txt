@@ -1,0 +1,18 @@
+Student
+ABC
+TP0003
+Male
+01-January-2017
+-
+-
+-
+abc@student.mail.com
+011-3456789
+HappyGarden,0002,Malaysia
+UC1F1605
+Software_Engineering
+Java
+Tanveer Khaleel
+IOOP
+Clay Jensen
+123
