@@ -1,6 +1,6 @@
 # Attendance-Management-System
 
-## XYZ University wants to design an online attendance system for students and faculty. 
+Design an online attendance system for students and faculty for XYZ University by using Java language. 
 
 There are three users for the system 
 1. Admin
